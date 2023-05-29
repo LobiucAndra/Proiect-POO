@@ -1,0 +1,164 @@
+# depslib dependency file v1.0
+1679490185 source:c:\users\media\onedrive\desktop\proiect nou\proiect\main.cpp
+	<iostream>
+	"Joc.h"
+	"Meniu.h"
+
+1679490570 source:c:\users\media\onedrive\desktop\proiect nou\proiect\src\board.cpp
+	"Board.h"
+	<iostream>
+
+1679489153 c:\users\media\onedrive\desktop\proiect nou\proiect\include\board.h
+
+1679489361 source:c:\users\media\onedrive\desktop\proiect nou\proiect\src\input.cpp
+	"Input.h"
+	<iostream>
+
+1679489309 c:\users\media\onedrive\desktop\proiect nou\proiect\include\input.h
+
+1679490570 source:c:\users\media\onedrive\desktop\proiect nou\proiect\src\joc.cpp
+	"Joc.h"
+	<iostream>
+
+1679489493 c:\users\media\onedrive\desktop\proiect nou\proiect\include\joc.h
+	"Board.h"
+	"Input.h"
+
+1679490168 source:c:\users\media\onedrive\desktop\proiect nou\proiect\src\meniu.cpp
+	"Meniu.h"
+	<iostream>
+
+1679490146 c:\users\media\onedrive\desktop\proiect nou\proiect\include\meniu.h
+
+1679493785 source:c:\users\media\onedrive\desktop\proiect\main.cpp
+	<iostream>
+	"Joc.h"
+	"Meniu.h"
+
+1685045070 c:\users\media\onedrive\desktop\proiect\include\joc.h
+	"Board.h"
+	"Input.h"
+
+1685044811 c:\users\media\onedrive\desktop\proiect\include\board.h
+	"Punct.h"
+	<vector>
+	<chrono>
+	<algorithm>
+
+1684867863 c:\users\media\onedrive\desktop\proiect\include\input.h
+	"Punct.h"
+
+1679493746 c:\users\media\onedrive\desktop\proiect\include\meniu.h
+
+1685045861 source:c:\users\media\onedrive\desktop\proiect\src\board.cpp
+	"Board.h"
+	<iostream>
+	<string>
+
+1684867236 source:c:\users\media\onedrive\desktop\proiect\src\input.cpp
+	"Input.h"
+	<iostream>
+
+1685045861 source:c:\users\media\onedrive\desktop\proiect\src\joc.cpp
+	"Joc.h"
+	<iostream>
+
+1684871669 source:c:\users\media\onedrive\desktop\proiect\src\meniu.cpp
+	"Meniu.h"
+	<iostream>
+
+1684867515 c:\users\media\onedrive\desktop\proiect\include\punct.h
+
+1684867273 source:c:\users\media\onedrive\desktop\proiect\src\punct.cpp
+	"Punct.h"
+
+1685300689 source:c:\users\hog4m\desktop\proiect\main.cpp
+	<iostream>
+	"Joc.h"
+	"Meniu.h"
+
+1685300865 c:\users\hog4m\desktop\proiect\include\joc.h
+	"Board.h"
+	"Input.h"
+	<fstream>
+
+1685044812 c:\users\hog4m\desktop\proiect\include\board.h
+	"Punct.h"
+	<vector>
+	<chrono>
+	<algorithm>
+
+1684867516 c:\users\hog4m\desktop\proiect\include\punct.h
+
+1684867864 c:\users\hog4m\desktop\proiect\include\input.h
+	"Punct.h"
+
+1679497348 c:\users\hog4m\desktop\proiect\include\meniu.h
+
+1685302740 source:c:\users\hog4m\desktop\proiect\src\board.cpp
+	"Board.h"
+	<iostream>
+	<string>
+	<random>
+
+1684867238 source:c:\users\hog4m\desktop\proiect\src\input.cpp
+	"Input.h"
+	<iostream>
+
+1685301233 source:c:\users\hog4m\desktop\proiect\src\joc.cpp
+	"Joc.h"
+	<iostream>
+
+1685300556 source:c:\users\hog4m\desktop\proiect\src\meniu.cpp
+	"Meniu.h"
+	<iostream>
+
+1685301283 source:c:\users\hog4m\desktop\proiect\src\punct.cpp
+	"Punct.h"
+	<iostream>
+
+1685306330 source:c:\users\lenovo\desktop\proiectgood\proiect\main.cpp
+	<iostream>
+	"Joc.h"
+	"Meniu.h"
+
+1685300865 c:\users\lenovo\desktop\proiectgood\proiect\include\joc.h
+	"Board.h"
+	"Input.h"
+	<fstream>
+
+1685044812 c:\users\lenovo\desktop\proiectgood\proiect\include\board.h
+	"Punct.h"
+	<vector>
+	<chrono>
+	<algorithm>
+
+1684867516 c:\users\lenovo\desktop\proiectgood\proiect\include\punct.h
+
+1684867864 c:\users\lenovo\desktop\proiectgood\proiect\include\input.h
+	"Punct.h"
+
+1685305976 c:\users\lenovo\desktop\proiectgood\proiect\include\meniu.h
+
+1685302740 source:c:\users\lenovo\desktop\proiectgood\proiect\src\board.cpp
+	"Board.h"
+	<iostream>
+	<string>
+	<random>
+
+1684867238 source:c:\users\lenovo\desktop\proiectgood\proiect\src\input.cpp
+	"Input.h"
+	<iostream>
+
+1685306396 source:c:\users\lenovo\desktop\proiectgood\proiect\src\joc.cpp
+	"Joc.h"
+	<iostream>
+
+1685305918 source:c:\users\lenovo\desktop\proiectgood\proiect\src\meniu.cpp
+	"Meniu.h"
+	<iostream>
+
+1685301283 source:c:\users\lenovo\desktop\proiectgood\proiect\src\punct.cpp
+	"Punct.h"
+	<iostream>
+
